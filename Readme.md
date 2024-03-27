@@ -10,4 +10,6 @@ You can find the corresponding post on Medium [here](https://medium.com/@tschech
 The notebook is written in Python 3.10. I suggest to install [Anaconda](https://docs.anaconda.com/).
 To install the same environment you can simply run ``conda env create -f environment.yml``.
 
-Alternatively, you can lookup the dependencies in the environment.yml file and install them manually, e.g., using pip.
+Alternatively, you can lookup the dependencies in the environment.yml file and install them, e.g., using pip.
+
+Then just run ``jupyter-lab`` and open the ``kmeans_MNIST.ipynb`` notebook.
